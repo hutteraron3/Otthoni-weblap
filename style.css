@@ -1,0 +1,52 @@
+.doboz {
+    height: 150px;
+    background-color: brown;
+    border: 5px solid white; 
+    padding: 0px 720px;
+    margin-bottom: 30px;
+    
+}
+tr,td,table{
+    border: 5px solid white;
+    border-collapse:collapse;
+    width: 600px;
+    height:75px;
+    margin-left:  100px;
+    text-align: center;
+    
+}
+table {
+    color: darkred;
+    background-color: gray;
+}
+
+body {
+background-repeat: no-repeat;
+background-position-y:230px;
+background-position-x: 850px;
+background-size: 900px;
+image-resolution:inherit;
+background-image: url(images/bACK.PNG);
+background-color: black;
+
+
+
+
+
+
+}
+.link {
+    color: darkred;
+    text-decoration: none;
+    font-size:30px;
+}   
+    
+
+
+
+
+
+
+
+
+
